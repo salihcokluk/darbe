@@ -3,10 +3,12 @@
     "appSettings": {
       "authorText": "KoKaiN & NyanKai",
       "version": "v1.0",
-      "appName" : "DarbeTurk RWAOC External"
+      "company": "DarbeTurk",
+      "appName" : "RWAOC External"
     },
     "game": {
-      "gameName": "Deluca"
+      "gameName": "Deluca",
+      "version": "v1.0"
     }
   }
 }
